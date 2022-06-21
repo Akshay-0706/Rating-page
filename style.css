@@ -3,6 +3,10 @@ body {
     font-family: 'Overpass', sans-serif;
 }
 
+h1 {
+    color: white;
+}
+
 .attribution {
     font-size: 11px;
     text-align: center;
